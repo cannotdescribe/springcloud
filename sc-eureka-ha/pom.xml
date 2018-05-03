@@ -8,7 +8,8 @@
 	<modules>
 		<module>sc-eureka-ha-server1</module>
 		<module>sc-eureka-ha-server2</module>
-	</modules>
+        <module>sc-euraka-ha-provider</module>
+    </modules>
 	<parent>
 		<groupId>com.twilight.springcloud</groupId>
 		<artifactId>springcloud</artifactId>
