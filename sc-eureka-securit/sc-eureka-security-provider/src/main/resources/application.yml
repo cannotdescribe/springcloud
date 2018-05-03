@@ -1,0 +1,13 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: sc-eureka-security-provider
+
+eureka:
+#  instance:
+#    hostname: twilight.org
+  client:
+    service-url:
+      defaultZone: http://admin:admin@localhost:8761/eureka/

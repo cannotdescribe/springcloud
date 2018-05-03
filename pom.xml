@@ -21,6 +21,7 @@
 	<modules>
 		<module>sc-eureka-ha</module>
         <module>sc-eureka-first</module>
+        <module>sc-eureka-securit</module>
     </modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
