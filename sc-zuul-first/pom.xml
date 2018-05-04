@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springcloud</artifactId>
+        <groupId>com.twilight.springcloud</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>sc-zuul-first</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>sc-zuul-first-zuul-no-eureka</module>
+        <module>sc-zuul-firste-uraka-server</module>
+        <module>sc-zuul-first-privoder1</module>
+        <module>sc-zuul-first-privoder2</module>
+        <module>sc-zuul-first-zuul</module>
+    </modules>
+
+
+</project>
