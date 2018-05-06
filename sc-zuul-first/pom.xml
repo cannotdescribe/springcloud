@@ -13,11 +13,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>sc-zuul-first-zuul-no-eureka</module>
-        <module>sc-zuul-firste-uraka-server</module>
+        <module>sc-zuul-firste-eureka-server</module>
         <module>sc-zuul-first-privoder1</module>
         <module>sc-zuul-first-privoder2</module>
         <module>sc-zuul-first-zuul</module>
-        <module>../sc-zuul-first、sc-zuul-first-consumer</module>
         <module>sc-zuul-first-consumer</module>
         <module>sc-zuul-first-hystrix-dashboard</module>
     </modules>

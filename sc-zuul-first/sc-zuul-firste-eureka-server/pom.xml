@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>sc-zuul-firste-uraka-server</artifactId>
+    <artifactId>sc-zuul-firste-eureka-server</artifactId>
 
     <dependencies>
         <dependency>
